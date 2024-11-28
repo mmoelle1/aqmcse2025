@@ -40,7 +40,7 @@
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #133568;
+		color: #94bd5a;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -48,6 +48,7 @@
 		a:hover {
 			text-decoration: none;
 			color: #133568 !important;
+			font-style: italic;
 			border-bottom-color: transparent;
 		}
 
